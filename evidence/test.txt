@@ -1,0 +1,4 @@
+00:00 +0: loading C:/Users/esse0/AppData/Roaming/Claude/scratch-workspaces/38ba049e-1c6c-442f-a8e3-3a26efa29ec2/47778b32-2f29-4a3f-9197-c35ba9499153/scratch-2026-10-18-7fe020/week05_state_lab/test/widget_test.dart
+00:00 +0: AC1 초기 화면: 항목 두 개, 남은 수 2
+00:00 +1: AC2·AC3 완료 후 취소하면 카드와 남은 수가 함께 왕복
+00:00 +2: All tests passed!
